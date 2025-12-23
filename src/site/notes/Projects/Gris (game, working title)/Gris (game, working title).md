@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/projects/gris-game-working-title/gris-game-working-title/","tags":["gardenEntry"]}
 ---
 
----
 # Gris - Game Design Document
 
 > [!info] Info
