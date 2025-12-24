@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/gris-game-working-title/gris-game-working-title/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/projects/gris-game-working-title/gris-game-working-title/","pinned":"true","tags":["gardenEntry"]}
 ---
 
 # Gris - Game Design Document
