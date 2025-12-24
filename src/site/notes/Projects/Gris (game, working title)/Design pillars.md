@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/projects/gris-game-working-title/design-pillars/"}
 ---
 
-
 Write down your design pillars. This is the foundation of your game and should never change. Your whole design should tie back to these pillars.
 
 For example:
@@ -24,3 +23,10 @@ Uncontrollable outburst of emotion, fear, irrationality, laughter, weeping, etc.
 
 📚 What are design pillars?
 [https://www.charliecleveland.com/game-pillars/](https://www.charliecleveland.com/game-pillars/)
+
+```button
+name → Next: Game Loops
+type link
+action obsidian://open?vault=personal&file=Projects%2FGris%20(game%2C%20working%20title)%2FGame%20loops
+color themed
+```
