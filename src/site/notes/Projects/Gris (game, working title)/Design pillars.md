@@ -24,9 +24,4 @@ Uncontrollable outburst of emotion, fear, irrationality, laughter, weeping, etc.
 📚 What are design pillars?
 [https://www.charliecleveland.com/game-pillars/](https://www.charliecleveland.com/game-pillars/)
 
-```button
-name → Next: Game Loops
-type link
-action obsidian://open?vault=personal&file=Projects%2FGris%20(game%2C%20working%20title)%2FGame%20loops
-color themed
-```
+## [[Projects/Gris (game, working title)/Game loops\|→ Next: Game Loops]]
