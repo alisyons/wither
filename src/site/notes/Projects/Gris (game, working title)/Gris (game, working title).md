@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/projects/gris-game-working-title/gris-game-working-title/","pinned":"true","tags":["gardenEntry"]}
 ---
 
+# Gris - Game Design Document
 
 > [!info] Info
 > This is the space that discusses plans about the game around the story named [Gris](obsidian://open?vault=personal&file=Stories%2FGris%20(story%2C%20working%20title)%2FGris%20(story%2C%20working%20title)).

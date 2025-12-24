@@ -4,7 +4,7 @@
 
 ## Main characters
 
-[[Characters/Gris (character)\|Gris (character)]]
+[[Characters/Gris (character)\|Gris]]
 [[Characters/Marigold\|Marigold]]
 [[Felice\|Felice]]
 ### Supporting characters
