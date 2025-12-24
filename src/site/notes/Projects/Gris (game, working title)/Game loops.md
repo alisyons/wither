@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/projects/gris-game-working-title/game-loops/"}
 ---
 
-
+---
 # Core game loop
 
 For example:
