@@ -39,7 +39,7 @@ This is the content of your game. They’re things that can change depending on 
 
 [[Projects/Gris (game, working title)/Narrative summary\|Narrative summary]]
 
-[Characters](obsidian://open?vault=personal&file=Stories%2FGris%20(story%2C%20working%20title)%2FGris%20-%20Cast)
+[[Stories/Gris (story, working title)/Gris - Cast\|Gris - Cast]]
 
 [[Projects/Gris (game, working title)/Level summaries\|Level summaries]]
 
