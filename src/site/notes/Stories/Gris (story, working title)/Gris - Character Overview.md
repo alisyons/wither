@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Character Overview.md","permalink":"/character-overview/"}
+{"dg-publish":true,"dg-path":"Character Overview.md","permalink":"/character-overview/","title":"Character Overview"}
 ---
 
 ## Main characters

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Characters/Gris.md","permalink":"/characters/gris/"}
+{"dg-publish":true,"dg-path":"Characters/Gris.md","permalink":"/characters/gris/","title":"Gris"}
 ---
 
 
