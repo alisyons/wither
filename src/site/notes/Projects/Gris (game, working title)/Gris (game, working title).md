@@ -39,7 +39,7 @@ This is the content of your game. They’re things that can change depending on 
 
 [[Projects/Gris (game, working title)/Narrative summary\|Narrative summary]]
 
-[[Stories/Gris (story, working title)/Cast\|Characters]]
+[[Stories/Gris (story, working title)/Gris - Character Overview\|Character Overview]]
 
 [[Projects/Gris (game, working title)/Level summaries\|Level summaries]]
 
