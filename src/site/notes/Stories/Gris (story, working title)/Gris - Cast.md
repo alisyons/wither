@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stories/gris-story-working-title/gris-cast/"}
+{"dg-publish":true,"permalink":"/stories/gris-story-working-title/gris-cast/","hide":"true"}
 ---
 
 ## Main characters
