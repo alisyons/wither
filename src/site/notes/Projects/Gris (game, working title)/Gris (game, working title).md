@@ -31,15 +31,15 @@ _Add an image of video of your game here that demonstrates what the game is like
 
 These are the features in your game. They’re game mechanics that apply throughout the whole of the game.
 
-[[Feature template\|Feature template]]
+[[Templates/Feature template\|Feature template]]
 
 # Content
 
 This is the content of your game. They’re things that can change depending on where the player is at in the game. Depending on the type of game you’re making you might not need all of these pages or they might look very different.
 
-[[Narrative summary\|Narrative summary]]
+[[Projects/Gris (game, working title)/Narrative summary\|Narrative summary]]
 
-[[Characters/Characters\|Characters]]
+[Characters](obsidian://open?vault=personal&file=Stories%2FGris%20(story%2C%20working%20title)%2FGris%20-%20Cast)
 
-[[Level summaries\|Level summaries]]
+[[Projects/Gris (game, working title)/Level summaries\|Level summaries]]
 
