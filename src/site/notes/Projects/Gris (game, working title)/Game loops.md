@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/gris-game-working-title/game-loops/"}
+{"dg-publish":true,"dg-path":"Game loops.md","permalink":"/game-loops/"}
 ---
 
 ---

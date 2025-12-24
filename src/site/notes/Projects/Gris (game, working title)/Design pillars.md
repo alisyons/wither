@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/gris-game-working-title/design-pillars/"}
+{"dg-publish":true,"dg-path":"Design pillars.md","permalink":"/design-pillars/"}
 ---
 
 Write down your design pillars. This is the foundation of your game and should never change. Your whole design should tie back to these pillars.

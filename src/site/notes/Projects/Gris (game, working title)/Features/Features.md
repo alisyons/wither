@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/projects/gris-game-working-title/features/features/"}
+{"dg-publish":true,"dg-path":"Features/Features.md","permalink":"/features/features/"}
 ---
 
