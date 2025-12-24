@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stories/gris-story-working-title/gris-cast/","hide":"true"}
+{"dg-publish":true,"dg-path":"Projects/Gris (game, working title)/Gris - Cast.md","permalink":"/projects/gris-game-working-title/gris-cast/"}
 ---
 
 ## Main characters
