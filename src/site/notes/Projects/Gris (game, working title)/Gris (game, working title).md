@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/projects/gris-game-working-title/gris-game-working-title/","pinned":"true","tags":["gardenEntry"]}
 ---
 
-# Gris - Game Design Document
 
 > [!info] Info
 > This is the space that discusses plans about the game around the story named [Gris](obsidian://open?vault=personal&file=Stories%2FGris%20(story%2C%20working%20title)%2FGris%20(story%2C%20working%20title)).
@@ -39,7 +38,7 @@ This is the content of your game. They’re things that can change depending on 
 
 [[Projects/Gris (game, working title)/Narrative summary\|Narrative summary]]
 
-[[Stories/Gris (story, working title)/Gris - Cast\|Gris - Cast]]
+[[Stories/Gris (story, working title)/Gris - Cast\|Characters]]
 
 [[Projects/Gris (game, working title)/Level summaries\|Level summaries]]
 
