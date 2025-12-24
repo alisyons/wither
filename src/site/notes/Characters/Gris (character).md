@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/gris-character/"}
+{"dg-publish":true,"dg-path":"Projects/Gris (game, working title)/Characters/Gris.md","permalink":"/projects/gris-game-working-title/characters/gris/"}
 ---
 
 
