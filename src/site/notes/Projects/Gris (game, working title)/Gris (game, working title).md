@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Gris (game, working title)/Game Design Document.md","permalink":"/gris-game-working-title/game-design-document/","title":"Gris (working title)","pinned":"true","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-path":"Gris (game, working title)/Game Design Document.md","permalink":"/gris-game-working-title/game-design-document/","title":"Game Design Document","pinned":"true","tags":["gardenEntry"]}
 ---
 
 # Gris - Game Design Document
@@ -21,11 +21,11 @@ _Add an image of video of your game here that demonstrates what the game is like
 
 # Core
 
-[[Projects/Gris (game, working title)/Design pillars\|Design pillars]]
+[[Projects/Gris (game, working title)/Core/Design pillars\|Design pillars]]
 
-[[Projects/Gris (game, working title)/Game loops\|Game loops]]
+[[Projects/Gris (game, working title)/Core/Game loops\|Game loops]]
 
-[[Projects/Gris (game, working title)/Player motivation and progression\|Player motivation and progression]]
+[[Projects/Gris (game, working title)/Core/Player motivation and progression\|Player motivation and progression]]
 
 # Features
 
@@ -37,9 +37,9 @@ These are the features in your game. They’re game mechanics that apply through
 
 This is the content of your game. They’re things that can change depending on where the player is at in the game. Depending on the type of game you’re making you might not need all of these pages or they might look very different.
 
-[[Projects/Gris (game, working title)/Narrative summary\|Narrative summary]]
+[[Projects/Gris (game, working title)/Content/Narrative summary\|Narrative summary]]
 
 [[Stories/Gris (story, working title)/Gris - Character Overview\|Character Overview]]
 
-[[Projects/Gris (game, working title)/Level summaries\|Level summaries]]
+[[Projects/Gris (game, working title)/Content/Level summaries\|Level summaries]]
 

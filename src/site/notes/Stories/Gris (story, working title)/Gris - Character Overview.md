@@ -4,8 +4,8 @@
 
 ## Main characters
 
-[[Characters/Gris (character)\|Gris]]
-[[Characters/Marigold\|Marigold]]
+[[Projects/Gris (game, working title)/Characters/Gris (character)\|Gris]]
+[[Projects/Gris (game, working title)/Characters/Marigold\|Marigold]]
 [[Felice\|Felice]]
 ### Supporting characters
 
