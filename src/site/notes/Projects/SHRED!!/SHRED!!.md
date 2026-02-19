@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"dg-path":"SHRED!!.md","permalink":"/shred/"}
+{"dg-publish":true,"permalink":"/projects/shred/shred/"}
 ---
 

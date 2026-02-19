@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Player motivation and progression.md","permalink":"/player-motivation-and-progression/"}
+{"dg-publish":true,"permalink":"/projects/gris-game-working-title/core/player-motivation-and-progression/"}
 ---
 
 # Motivations
