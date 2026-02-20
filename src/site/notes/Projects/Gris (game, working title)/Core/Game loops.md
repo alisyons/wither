@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/gris-game-working-title/core/game-loops/"}
+{"dg-publish":true,"permalink":"/projects/gris-game-working-title/core/game-loops/","noteIcon":""}
 ---
 
 ---

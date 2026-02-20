@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/gris-game-working-title/characters/marigold/"}
+{"dg-publish":true,"permalink":"/projects/gris-game-working-title/characters/marigold/","noteIcon":""}
 ---
 
 > [!vamps] Marigold

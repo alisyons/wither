@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/projects/shred/shred/"}
+{"dg-publish":true,"permalink":"/projects/shred/shred/","noteIcon":""}
 ---
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Projects/Gris (game, working title)/Game Design Document.md","permalink":"/projects/gris-game-working-title/game-design-document/","title":"Game Design Document","pinned":"true"}
+{"dg-publish":true,"dg-path":"Projects/Gris (game, working title)/Game Design Document.md","permalink":"/projects/gris-game-working-title/game-design-document/","title":"Game Design Document","pinned":"true","noteIcon":""}
 ---
 
 # Gris - Game Design Document

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/the-hub/","pinned":"true","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/the-hub/","pinned":"true","tags":["gardenEntry"],"noteIcon":"Media/icons/home.svg"}
 ---
-
 
 **Wither** is an extensive worldbuilding and game project by [@alisyons](https://www.instagram.com/alisyons). 
 
