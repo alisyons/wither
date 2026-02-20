@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/the-hub/","pinned":"true","tags":["gardenEntry"],"noteIcon":"Media/icons/home.svg"}
+{"dg-publish":true,"permalink":"/the-hub/","pinned":"true","tags":["gardenEntry"]}
 ---
 
-**Wither** is an extensive worldbuilding and game project by [@alisyons](https://www.instagram.com/alisyons). 
+## What is Wither?
 
-> [!eye] What is Wither?
-> All Wither stories play in a world shaped and forsaken by gods. They show facets of different cultures and people living in a time where nothing is certain and too many mysteries are left unsolved. All these mysteries point to something bigger, more sinister playing out hidden from the layperson's eyes and only a select few will come close to figuring out the ways of this world.
+**Wither** is a multimedia worldbuilding project by [alisyons](https://www.instagram.com/alisyons). Currently, there are concepts for two game projects:
+
+- [Gris (working title)](Projects/Gris (game, working title)): a story-centric puzzle game about uncovering a murder mystery through various timelines
+- [SHRED!!](Projects/SHRED!!): a card game about a vampire band playing together
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/gris-game-working-title/characters/gris-character/","title":"Gris","noteIcon":""}
+{"dg-publish":true,"permalink":"/projects/gris-game-working-title/characters/gris-character/","title":"Gris"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/gris-game-working-title/content/level-summaries/","noteIcon":""}
+{"dg-publish":true,"permalink":"/projects/gris-game-working-title/content/level-summaries/"}
 ---
 
 List of all the levels in the game and details of what the player will encounter in each.
