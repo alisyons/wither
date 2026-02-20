@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Gris (game, working title)/Characters/Marigold.md","permalink":"/gris-game-working-title/characters/marigold/"}
+{"dg-publish":true,"permalink":"/projects/gris-game-working-title/characters/marigold/"}
 ---
 
 > [!vamps] Marigold
