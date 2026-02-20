@@ -4,7 +4,7 @@
 
 Hello, I'm Alisa! You can find me in the virtual world under the name [alisyons](https://www.instagram.com/alisyons).
 
-<img class='centerimg' style="width: 500px" src="Media/logo.png">
+<img class='centerimg' style="width: 500px" src="src/site/img/logo.png">
 
 **Wither** is my multimedia worldbuilding project. Currently, there are concepts for two game projects:
 
