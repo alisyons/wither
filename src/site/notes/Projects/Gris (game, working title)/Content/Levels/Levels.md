@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"dg-path":"Gris (game, working title)/Levels.md","permalink":"/gris-game-working-title/levels/"}
+{"dg-publish":true,"permalink":"/projects/gris-game-working-title/content/levels/levels/"}
 ---
 
